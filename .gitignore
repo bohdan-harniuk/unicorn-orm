@@ -35,4 +35,3 @@ hs_err_pid*
 ## Unicorn project
 ##############################
 src/main/resources/*
-!src/main/resources/db.config
